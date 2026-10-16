@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+}
+
+.app {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+h1 {
+  color: #1d3557;
+}
+
+.message-box {
+  max-width: 450px;
+  margin: 25px auto;
+  padding: 25px;
+  background-color: white;
+  border: 2px solid #457b9d;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.message-box h2 {
+  color: #2a6f97;
+}
+
+.message-box p {
+  font-size: 18px;
+  color: #333;
+}
